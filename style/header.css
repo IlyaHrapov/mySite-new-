@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+  height: 88px;
+  background-color: red;
+  margin-bottom: 1vh;
+}
+.header__logo{
+  display: flex;
+    height: 80px;
+}
+
+.header__logo > a{
+  display: flex;
+    height: 80px;
+}
+
+.header__item {
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  justify-content: space-around;
+}
+.header__menu{
+  display: flex;
+  justify-content: space-around;
+}
+.header__menu{
+  display: flex;
+  justify-content: space-around;
+  
+}

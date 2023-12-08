@@ -1,0 +1,31 @@
+.comment__text{
+    background-color:aliceblue;
+    margin-top: 0.5vh;
+    margin-bottom: 0.5vh;
+}
+.comment__form{
+    display: flex;
+    width:100%;
+    background-color: rgb(255 255 255);
+    flex-direction: row;
+}
+.comment{
+    display: flex;
+    flex-direction: column;
+    margin: 1vh;
+    margin-right: 0;
+}
+.comment__header{
+    display: flex;
+    margin-top: 0.5vh;
+}
+.story-comments{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1vh;
+
+}
+textarea{
+    width: 100%;
+    font-family: 'Roboto-Regular';
+}

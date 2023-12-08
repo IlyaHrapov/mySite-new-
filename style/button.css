@@ -1,0 +1,17 @@
+.btn {
+  background-color: rgb(224, 2, 253);
+  padding: 0 0;
+}
+
+.btn--small {
+  width: 25vw;
+  max-width: 100px;
+  min-height: 50px;
+  margin-right: 1vw;
+  font-family: "Roboto-regular";
+}
+.btn--rate{
+  min-width: 20px;
+  min-height: 20px;
+  font-family: "Roboto-regular";
+}
